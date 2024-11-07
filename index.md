@@ -5,7 +5,7 @@
 
 UBC Red Cross is a student-run non-profit club that upholds the seven values of the Canadian Red Cross: humanity, voluntary service, impartiality, neutrality, independence, unity, and universality. Through our five committees, we run volunteer events, host training sessions, organize speaker series, raise money, and so much more. We’re committed to improving the UBC and Vancouver community, as well as supporting global causes. 
 
-Delete this line.
+
 
 {% include section.html %}
 
