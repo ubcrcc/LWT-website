@@ -5,8 +5,6 @@ description: Help make a difference at UBC and in the Vancouver area.
 show-title: true
 header: images/gm_people.jpg
 footer: images/gm_people.jpg
-header-dark: false
-footer-dark: false
 proofer: false
 
 # site social media and other links
