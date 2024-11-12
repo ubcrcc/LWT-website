@@ -39,21 +39,21 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<title>Team | UBC Red Cross Club</title>
+<title>Sign Up | UBC Red Cross Club</title>
 
 <link rel="icon" href="/LWT-website/images/icon.png">
 
-<meta name="title" content="Team">
+<meta name="title" content="Sign Up">
 <meta name="description" content="University of British Columbia. Help make a difference at UBC and in the Vancouver area.">
 
-<meta property="og:title" content="Team">
+<meta property="og:title" content="Sign Up">
 <meta property="og:site_title" content="UBC Red Cross Club">
 <meta property="og:description" content="University of British Columbia. Help make a difference at UBC and in the Vancouver area.">
 <meta property="og:url" content="https://ubcrcc.github.io/LWT-website">
 <meta property="og:image" content="/LWT-website/images/share.png">
 <meta property="og:locale" content="en_US">
 
-<meta property="twitter:title" content="Team">
+<meta property="twitter:title" content="Sign Up">
 <meta property="twitter:description" content="University of British Columbia. Help make a difference at UBC and in the Vancouver area.">
 <meta property="twitter:url" content="https://ubcrcc.github.io/LWT-website">
 <meta property="twitter:card" content="summary_large_image">
@@ -69,9 +69,9 @@
     
       "@type": "WebSite",
     
-    "name": "Team",
+    "name": "Sign Up",
     "description": "University of British Columbia. Help make a difference at UBC and in the Vancouver area.",
-    "headline": "Team",
+    "headline": "Sign Up",
     "publisher": {
       "@type": "Organization",
       "logo": { "@type": "ImageObject", "url": "/LWT-website/images/icon.png" }
@@ -408,20 +408,14 @@
       
     
       
-        <a href="/LWT-website/projects/" data-tooltip="Software, datasets, and more">
-          Projects
+        <a href="/LWT-website/signup/" data-tooltip="Get involved with the club">
+          Sign Up
         </a>
       
     
       
-        <a href="/LWT-website/team/" data-tooltip="About our team">
-          Team
-        </a>
-      
-    
-      
-        <a href="/LWT-website/contact/" data-tooltip="Email, address, and location">
-          Contact
+        <a href="/LWT-website/people/" data-tooltip="About our team">
+          People
         </a>
       
     
@@ -452,12 +446,32 @@
   
 
   <section class="background" data-size="page">
-    <h1 id="team">
-<i class="icon fa-solid fa-users"></i>Team</h1>
+    <!--
+  background: ;
+  dark: ;
+  size: ;
+-->
+
+<h1 id="join-as-a-member">
+<i class="icon fa-solid fa-arrow-right-to-bracket"></i>Join As A Member</h1>
 
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
 incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
 nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+
+<div class="button-wrapper">
+    <a class="button" href="https://docs.google.com/forms/d/e/1FAIpQLSdvPpvsSEvzkeqfnKPS8oLMpiUR9hpS8MxnctOJhgYTkORqAw/viewform?usp=sharing" data-style="" aria-label="button">
+      
+      
+        <span>Become A Member</span>
+      
+    </a>
+  </div>
+
+<h2 id="position-postings">Position Postings</h2>
+
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
   </section>
 
   
@@ -471,143 +485,207 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p
   size: ;
 -->
 
-<div class="portrait-wrapper">
-  <a href="/LWT-website/members/jane-smith.html" class="portrait" data-style="" aria-label="Jane Smith">
-    
-      <i class="icon fa-solid fa-microscope"></i>
-    
-
-    <img src="/LWT-website/images/photo.jpg" class="portrait-image" alt="member portrait" loading="lazy" onerror="this.src = '/LWT-website/images/fallback.svg'; this.onerror = null;">
-
-    
-      <span class="portrait-name">
-        Jane Smith
-      </span>
-    
-
-    
-      <span class="portrait-description">
-        Principal Investigator
-      </span>
-    
-
-    
-      <span class="portrait-affiliation">
-        University of Colorado
-      </span>
-    
-  </a>
+<div class="search-box">
+  <input type="text" class="search-input" oninput="onSearchInput(this)" placeholder="Search items on this page">
+  <button disabled data-tooltip="Clear search" aria-label="clear search" onclick="onSearchClear()">
+    <i class="icon fa-solid fa-magnifying-glass"></i>
+  </button>
 </div>
 
-<div class="portrait-wrapper">
-  <a href="/LWT-website/members/john-doe.html" class="portrait" data-style="" aria-label="John Doe">
+<div class="tags" data-link="/LWT-website/signup/">
     
-      <i class="icon fa-solid fa-graduation-cap"></i>
+      <a href="/signup/?search=%22tag:%20outreach-and-awareness%22" class="tag" data-tooltip='Show items with the tag "outreach-and-awareness"'>
+        outreach-and-awareness
+      </a>
+    
+      <a href="/signup/?search=%22tag:%20humanitarian-movement%22" class="tag" data-tooltip='Show items with the tag "humanitarian-movement"'>
+        humanitarian-movement
+      </a>
+    
+      <a href="/signup/?search=%22tag:%20executive%22" class="tag" data-tooltip='Show items with the tag "executive"'>
+        executive
+      </a>
+    
+  </div>
+
+<div class="search-info"></div>
+
+<h3 id="2024">2024</h3>
+
+<div class="post-excerpt-container">
+  <div class="post-excerpt">
+    
+    
     
 
-    <img src="/LWT-website/images/photo.jpg" class="portrait-image" alt="member portrait" loading="lazy" onerror="this.src = '/LWT-website/images/fallback.svg'; this.onerror = null;">
-
-    
-      <span class="portrait-name">
-        John Doe
-      </span>
     
 
-    
-      <span class="portrait-description">
-        PhD Student
-      </span>
-    
+    <div class="post-excerpt-text">
+      <a href="/LWT-website/2024/09/30/example-post-2.html">Example post 2</a>
 
-    
-  </a>
+      <div class="post-info">
+  
+
+  
+  
+
+  
+    <span data-tooltip="Originally published on">
+      <i class="icon fa-regular fa-calendar"></i>
+      <span>September 30, 2024</span>
+    </span>
+  
+
+  
+    <span data-tooltip="Last updated on">
+      <i class="icon fa-solid fa-clock-rotate-left"></i>
+      <span>November 12, 2024</span>
+    </span>
+  
 </div>
 
-<div class="portrait-wrapper">
-  <a href="/LWT-website/members/sarah-johnson.html" class="portrait" data-style="" aria-label="Sarah Johnson">
-    
-      <i class="icon fa-solid fa-code"></i>
-    
 
-    <img src="/LWT-website/images/photo.jpg" class="portrait-image" alt="member portrait" loading="lazy" onerror="this.src = '/LWT-website/images/fallback.svg'; this.onerror = null;">
+  
 
-    
-      <span class="portrait-name">
-        Sarah Johnson
-      </span>
-    
 
+  <div class="tags" data-link="/LWT-website/blog">
     
-      <span class="portrait-description">
-        Lead Programmer
-      </span>
+      <a href="blog?search=%22tag:%20executive%22" class="tag" data-tooltip='Show items with the tag "executive"'>
+        executive
+      </a>
     
+  </div>
 
-    
-  </a>
+
+
+
+
+      
+      
+      <p data-search="Lorem ipsum dolor sit amet  consectetur adipiscing elit  sed do eiusmod tempor incididunt ut labore et dolore magna aliqua ">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+      </p>
+    </div>
+  </div>
 </div>
-  </section>
+
+<div class="post-excerpt-container">
+  <div class="post-excerpt">
+    
+    
+    
+
+    
+
+    <div class="post-excerpt-text">
+      <a href="/LWT-website/2024/02/23/example-post-3.html">Example post 3</a>
+
+      <div class="post-info">
+  
 
   
   
-  
-
-  <section class="background" data-size="2" data-dark="true">
-    <!--
-  background: images/background.jpg;
-  dark: true;
-  size: 2;
--->
-
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  </section>
 
   
+    <span data-tooltip="Originally published on">
+      <i class="icon fa-regular fa-calendar"></i>
+      <span>February 23, 2024</span>
+    </span>
+  
+
+  
+    <span data-tooltip="Last updated on">
+      <i class="icon fa-solid fa-clock-rotate-left"></i>
+      <span>November 12, 2024</span>
+    </span>
+  
+</div>
+
+
+  
+
+
+  <div class="tags" data-link="/LWT-website/blog">
+    
+      <a href="blog?search=%22tag:%20humanitarian-movement%22" class="tag" data-tooltip='Show items with the tag "humanitarian-movement"'>
+        humanitarian-movement
+      </a>
+    
+  </div>
+
+
+
+
+
+      
+      
+      <p data-search="Lorem ipsum dolor sit amet  consectetur adipiscing elit  sed do eiusmod tempor incididunt ut labore et dolore magna aliqua ">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+      </p>
+    </div>
+  </div>
+</div>
+
+<h3 id="2023">2023</h3>
+
+<div class="post-excerpt-container">
+  <div class="post-excerpt">
+    
+    
+    
+
+    
+
+    <div class="post-excerpt-text">
+      <a href="/LWT-website/2023/01/07/example-post-1.html">Example post 1</a>
+
+      <div class="post-info">
+  
+
   
   
 
-  <section class="background" data-size="page">
-    <!--
-  background: ;
-  dark: ;
-  size: ;
--->
-
-<div class="grid" data-style="square">
   
-<figure class="figure">
-  <a class="figure-image" aria-label="figure link">
-    <img src="/LWT-website/images/photo.jpg" style="
-        width: auto;
-        max-height: unset;
-      " alt="figure image" loading="lazy" onerror="this.src = '/LWT-website/images/fallback.svg'; this.onerror = null;">
-  </a>
+    <span data-tooltip="Originally published on">
+      <i class="icon fa-regular fa-calendar"></i>
+      <span>January 07, 2023</span>
+    </span>
   
-</figure>
 
-<figure class="figure">
-  <a class="figure-image" aria-label="figure link">
-    <img src="/LWT-website/images/photo.jpg" style="
-        width: auto;
-        max-height: unset;
-      " alt="figure image" loading="lazy" onerror="this.src = '/LWT-website/images/fallback.svg'; this.onerror = null;">
-  </a>
   
-</figure>
-
-<figure class="figure">
-  <a class="figure-image" aria-label="figure link">
-    <img src="/LWT-website/images/photo.jpg" style="
-        width: auto;
-        max-height: unset;
-      " alt="figure image" loading="lazy" onerror="this.src = '/LWT-website/images/fallback.svg'; this.onerror = null;">
-  </a>
+    <span data-tooltip="Last updated on">
+      <i class="icon fa-solid fa-clock-rotate-left"></i>
+      <span>November 12, 2024</span>
+    </span>
   
-</figure>
+</div>
 
 
+  
+
+
+  <div class="tags" data-link="/LWT-website/blog">
+    
+      <a href="blog?search=%22tag:%20outreach-and-awareness%22" class="tag" data-tooltip='Show items with the tag "outreach-and-awareness"'>
+        outreach-and-awareness
+      </a>
+    
+  </div>
+
+
+
+
+
+      
+      
+      <p data-search="Lorem ipsum dolor sit amet  consectetur adipiscing elit  sed do eiusmod tempor incididunt ut labore et dolore magna aliqua  I m just going to keep typing to see what happens if this text is large  Will it cut off the text nicely  or just make the box super big  I guess we ll see  I think this is nearly enough text  Maybe one more sentence  just to be sure ">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. I’m just going to keep typing to see what happens if this text is large. Will it cut off the text nicely, or just make the box super big? I guess we’ll see, I think this is nearly enough text. Maybe one more sentence, just to be sure.
+
+      </p>
+    </div>
+  </div>
 </div>
   </section>
 
