@@ -1,7 +1,7 @@
 ---
 title: About
 nav:
-  order: 6
+  order: 4
   tooltip: Email, address, and location
 ---
 

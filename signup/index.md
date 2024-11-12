@@ -1,8 +1,8 @@
 ---
-title: Contact
+title: Sign Up
 nav:
-  order: 5
-  tooltip: Email, address, and location
+  order: 2
+  tooltip: Get involved with the club
 ---
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
