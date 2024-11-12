@@ -5,7 +5,7 @@ nav:
   tooltip: Email, address, and location
 ---
 
-# About UBC Red Cross
+# {% include icon.html icon="fa-solid fa-earth-americas" %}About UBC Red Cross
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
 incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
