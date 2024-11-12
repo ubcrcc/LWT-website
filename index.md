@@ -50,7 +50,7 @@ Learn more about our club, including why we do what we do. Find out more about o
 
 {%
   include button.html
-  link="team"
+  link="about"
   text="Learn more about us"
   icon="fa-solid fa-arrow-right"
   flip=true
