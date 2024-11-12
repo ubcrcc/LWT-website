@@ -15,13 +15,17 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 # Outreach and Awareness
 
+<!--- Check out this page from the docs for some of the images settings:
+https://greene-lab.gitbook.io/lab-website-template-docs/basics/components/figure
+
+Also, feel free to have more or fewer than two pictures per committee, either copy the format below to add more or delete everything but the image block below to remove pictures. -->
+
 {% capture col1 %}
 
-<!-- Want more or fewer pictures? Add another column with the same syntax as this code, or use just the block below. -->
 {%
   include figure.html
-  image="images/photo.jpg" <!-- Remember, you can change this path to be your own picture, stored in the "images" folder. -->
-  width="100%" <!-- Change this to change the size of the pictures, especially if you use a different number of pics. -->
+  image="images/photo.jpg"
+  width="100%"
   caption="Lorem ipsum"
 %}
 
@@ -43,5 +47,3 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
 incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
 nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-<!-- Copy the above section for the rest of the committees. -->
