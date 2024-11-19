@@ -13,4 +13,5 @@ To preview website locally:
     - This may take a few minutes the first time
 - Open the link near the bottom of the output in a browser
 
+./.docker/run.sh
 
