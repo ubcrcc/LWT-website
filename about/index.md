@@ -5,7 +5,7 @@ nav:
   tooltip: Email, address, and location
 ---
 
-# {% include icon.html icon="fa-solid fa-earth-americas" %}About UBC Red Cross
+# {% include icon.html icon="fa-solid fa-earth-americas" %}About
 
 The UBC Red Cross Club is a student-run, non-profit organization at the University of British Columbia that works to promote the Seven Principles of the Canadian Red Cross. The Club itself is made up of several committees, each of which focuses on the overall goals of the UBC Red Cross. These committees include the Humanitarian Movement Committee, the Training Committee, the Fundraising Committee, and the Outreach and Awareness Committee.The UBC Red Cross Club is a student-run, non-profit organization at the University of British Columbia that works to promote the Seven Principles of the Canadian Red Cross. The Club itself is made up of several committees, each of which focuses on the overall goals of the UBC Red Cross. 
 

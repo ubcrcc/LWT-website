@@ -7,7 +7,7 @@ nav:
 
 {% include section.html %}
 
-# {% include icon.html icon="fa-solid fa-arrow-right-to-bracket" %}Join As A Member
+# {% include icon.html icon="fa-solid fa-arrow-right-to-bracket" %}Sign Up
 
 Joining UBC Red Cross Club as a member is a great way to get involved and start making a difference in the club. As a member you can:
 
