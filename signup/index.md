@@ -9,9 +9,13 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-arrow-right-to-bracket" %}Join As A Member
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Joining UBC Red Cross Club as a member is a great way to get involved and start making a difference in the club. As a member you can:
+
+<ul>
+  <li>Attend our general meetings and help make decisions like our initiative of the year</li>
+  <li>Get priority registration for events through our newsletter and pay less to attend some events</li>
+  <li>Join a committee and volunteer to help organize and run events</li>
+</ul>
 
 {%
   include button.html
@@ -22,15 +26,18 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 ## Position Postings
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Check the board below for leadership positions available in UBCRCC. Becoming an officer, director, or even executive is a great way to get more involved! Although you can keep an eye out for positions any time, expect most to appear around April and September.
 
 {% include section.html %}
 
 {% include search-box.html %}
-
 {% include tags.html tags=site.tags %}
-
 {% include search-info.html %}
 
-{% include list.html data="posts" component="post-excerpt" %}
+{% assign num_posts = site.posts | size %}
+
+{% if num_posts == 0 %}
+  <p style="text-align: center; font-size: 18px;">No positions available</p>
+{% else %}
+  {% include list.html data="posts" component="post-excerpt" %}
+{% endif %}

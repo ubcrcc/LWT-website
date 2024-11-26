@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-calendar-days" %}Events
 
-Check out some of our upcoming opportunities as well as some of our most recent Red Cross events! Click on events for more information, as well as dates, locations, and sign up.
+Check out some of our upcoming opportunities as well as some of our most recent Red Cross events! Click on events for more information, as well as dates, locations, and sign up. Not a member? No worries! Anyone can attend most of our events, but members might get discounts on event costs, and will get priority registration.
 
 {% include section.html %}
 
