@@ -4,16 +4,19 @@
     | first
   %}
 {% else %}
-  {% assign member = include %}
+{% assign member = include %}
 {% endif %}
 
 {% assign type = site.data.types[member.role] %}
 
 <div class="portrait-wrapper">
   <a
+    {% comment %}
+    this section is commented out because right now, we don't need a page for each member
     {% if page.slug != member.slug %}
       href="{{ member.url | relative_url | xml_escape }}"
     {% endif %}
+    {% endcomment %}
     class="portrait"
     data-style="{{ include.style }}"
     aria-label="{{ member.name | default: "member link" | xml_escape }}"

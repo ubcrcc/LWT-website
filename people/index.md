@@ -33,7 +33,7 @@ Directors are responsible for leading our committees. They organize officers, an
 
 ## Officers
 
-Officers are core of our committees. They run our events, and organize our members so they can help out.
+Officers are core of our committees. They run our events, and organize our members so they can help the club out!
 
 {% include section.html %}
 

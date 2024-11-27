@@ -21,7 +21,6 @@
 
   {% for d in data %}
     {% assign style = d.style | default: include.style %}
-
     {%
       include {{ include.component | append: ".html" }}
       affiliation=d.affiliation
