@@ -7,29 +7,36 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}People
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-{% include section.html %}
-
-{% include list.html data="members" component="portrait" filter="role == 'pi'" %}
-{% include list.html data="members" component="portrait" filter="role != 'pi'" %}
+Meet our team! Our execs, directors, and officers are the core of this club, helping us organize and run our events and fundraisers! Say hi to us at events, or become a member and come meet us at our general and committee meetings!
 
 {% include section.html background="images/background.jpg" dark=true %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+## Executives
+
+Our execs do the administrative jobs for our club, like organizing committees, keeping track of our money, or communicating with other clubs.
 
 {% include section.html %}
 
-{% capture content %}
+{% include list.html data="members" component="portrait" filter="role == 'exec'" %}
 
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
+{% include section.html background="images/background.jpg" dark=true %}
 
-{% endcapture %}
+## Directors
 
-{% include grid.html style="square" content=content %}
+Directors are responsible for leading our committees. They organize officers, and are the driving force behind all of our events.
+
+{% include section.html %}
+
+{% include list.html data="members" component="portrait" filter="role == 'director'" %}
+
+{% include section.html background="images/background.jpg" dark=true %}
+
+## Officers
+
+Officers are core of our committees. They run our events, and organize our members so they can help out.
+
+{% include section.html %}
+
+{% include list.html data="members" component="portrait" filter="role == 'officer'" %}
+
+
