@@ -23,9 +23,9 @@ Also, feel free to have more or fewer than two pictures per committee, either co
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  width="100%"
-  caption="Lorem ipsum"
+  image="images/outreach1.png"
+  width="130%"
+  caption="Outreach committee volunteering around Vancouver"
 %}
 
 {% endcapture %}
@@ -34,9 +34,9 @@ Also, feel free to have more or fewer than two pictures per committee, either co
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  width="100%"
-  caption="Lorem ipsum"
+  image="images/outreach2.png"
+  width="65%"
+  caption=""
 %}
 
 {% endcapture %}
@@ -56,9 +56,9 @@ Also, feel free to have more or fewer than two pictures per committee, either co
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  width="100%"
-  caption="Lorem ipsum"
+  image="images/fundraising1_2.png"
+  width="85%"
+  caption=""
 %}
 
 {% endcapture %}
@@ -67,9 +67,9 @@ Also, feel free to have more or fewer than two pictures per committee, either co
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  width="100%"
-  caption="Lorem ipsum"
+  image="images/fundraising1_1.png"
+  width="90%"
+  caption=""
 %}
 
 {% endcapture %}
@@ -90,9 +90,9 @@ Also, feel free to have more or fewer than two pictures per committee, either co
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  width="100%"
-  caption="Lorem ipsum"
+  image="images/hmc_1.png"
+  width="85%"
+  caption=""
 %}
 
 {% endcapture %}
@@ -101,14 +101,14 @@ Also, feel free to have more or fewer than two pictures per committee, either co
 
 {%
   include figure.html
-  image="images/photo.jpg"
+  image="images/"
   width="100%"
   caption="Lorem ipsum"
 %}
 
 {% endcapture %}
 
-{% include cols.html col1=col1 col2=col2 %}
+{% include cols.html col1=col1  %}
 
 The humanitarian movement is an initiative aimed at empowering both highschool and university students interested in humanitarian issues through our annual humanitarians training conference. Through the conference, we engage youth leaders with humanitarian issues and support them in making an impact within their local and global community.
  
@@ -124,9 +124,9 @@ Also, feel free to have more or fewer than two pictures per committee, either co
 
 {%
   include figure.html
-  image="images/photo.jpg"
+  image="images/training.png"
   width="100%"
-  caption="Lorem ipsum"
+  caption=""
 %}
 
 {% endcapture %}
