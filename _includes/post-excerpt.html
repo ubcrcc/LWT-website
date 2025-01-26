@@ -1,41 +1,17 @@
-{% if include.lookup %}
-  {% assign post = site.posts 
-    | where_exp: "post", "post.slug == include.lookup"
-    | first
-    | default: include
-  %}
-{% else %}
-  {% assign post = include %}
-{% endif %}
+
+{% assign post = include %}
 
 <div class="post-excerpt-container">
   <div class="post-excerpt">
-    {% assign url = post.url %}
     {% assign title = post.title %}
-    {% assign image = post.image %}
-
-    {% if image %}
-      <a
-        href="{{ url | relative_url | xml_escape }}"
-        class="post-excerpt-image"
-        aria-label="{{ title | default: "excerpt link" | xml_escape }}"
-      >
-        <img
-          src="{{ image | relative_url | xml_escape }}"
-          alt="{{ title | default: "excerpt image" | xml_escape }}"
-          loading="lazy"
-          {% include fallback.html %}
-        >
-      </a>
-    {% endif %}
 
     <div class="post-excerpt-text">
-      <a href="{{ url | relative_url | xml_escape }}">{{ title }}</a>
 
       {%
         include post-info.html
-        published=post.date
+        title=post.title
         tags=post.tags
+        content=post.content
       %}
 
       {% assign search = post.content
@@ -43,6 +19,7 @@
         | strip_newlines
         | regex_strip
       %}
+
       <p data-search="{{ search | xml_escape }}">
         {{ excerpt }}
       </p>
