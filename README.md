@@ -15,3 +15,5 @@ To preview website locally:
 
 ./.docker/run.sh
 
+./.docker/run.sh
+

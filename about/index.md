@@ -124,7 +124,7 @@ Also, feel free to have more or fewer than two pictures per committee, either co
 
 {%
   include figure.html
-  image="images/training.png"
+  image="images/training 2.png"
   width="100%"
   caption=""
 %}
@@ -135,9 +135,9 @@ Also, feel free to have more or fewer than two pictures per committee, either co
 
 {%
   include figure.html
-  image="images/photo.jpg"
+  image="images/training 1.jpg"
   width="100%"
-  caption="Lorem ipsum"
+  caption=""
 %}
 
 {% endcapture %}
@@ -146,69 +146,4 @@ Also, feel free to have more or fewer than two pictures per committee, either co
 
 The goal of this committee is to provide accessible and affordable training opportunities (such as first aid training, naloxone training, psychological first aid training etc.) to the ubc community and beyond, to ensure they are prepared as possible to respond to various situations.  
 
-# Outreach and Awareness Committee
 
-<!--- Check out this page from the docs for some of the images settings:
-https://greene-lab.gitbook.io/lab-website-template-docs/basics/components/figure
-
-Also, feel free to have more or fewer than two pictures per committee, either copy the format below to add more or delete everything but the image block below to remove pictures. -->
-
-{% capture col1 %}
-
-{%
-  include figure.html
-  image="images/photo.jpg"
-  width="100%"
-  caption="Lorem ipsum"
-%}
-
-{% endcapture %}
-
-{% capture col2 %}
-
-{%
-  include figure.html
-  image="images/photo.jpg"
-  width="100%"
-  caption="Lorem ipsum"
-%}
-
-{% endcapture %}
-
-{% include cols.html col1=col1 col2=col2 %}
-
-The goal of this committee is to provide accessible and affordable training opportunities (such as first aid training, naloxone training, psychological first aid training etc.) to the ubc community and beyond, to ensure they are prepared as possible to respond to various situations. 
-
-
-# Outreach and Awareness Committee
-
-<!--- Check out this page from the docs for some of the images settings:
-https://greene-lab.gitbook.io/lab-website-template-docs/basics/components/figure
-
-Also, feel free to have more or fewer than two pictures per committee, either copy the format below to add more or delete everything but the image block below to remove pictures. -->
-
-{% capture col1 %}
-
-{%
-  include figure.html
-  image="images/photo.jpg"
-  width="100%"
-  caption="Lorem ipsum"
-%}
-
-{% endcapture %}
-
-{% capture col2 %}
-
-{%
-  include figure.html
-  image="images/photo.jpg"
-  width="100%"
-  caption="Lorem ipsum"
-%}
-
-{% endcapture %}
-
-{% include cols.html col1=col1 col2=col2 %}
-
-The goal of this committee is to educate members, and the ubc committee, about various humanitarian issues within vancouver, as well as globally. In addition, the committee aims to provide meaningful hands-on volunteer opportunities for members through community partnerships. In the past, this has included creating safe injection packages, running essential items drives, volunteering at soup kitchens, etc. 
