@@ -17,17 +17,9 @@
 
   <div class="card-text">
     {% if include.title %}
-      <a
-        {% if include.link %}
-          href="{{ include.link | relative_url | xml_escape }}"
-        {% endif %}
-        {% if include.tooltip %}
-          data-tooltip="{{ include.tooltip | xml_escape }}"
-        {% endif %}
-        class="card-title"
-      >
+      <span class="card-title">
         {{ include.title }}
-    </a>
+      </span>
     {% endif %}
 
     {% if include.subtitle %}
@@ -42,6 +34,16 @@
 
     {% if include.tags or include.repo %}
       {% include tags.html tags=include.tags repo=include.repo %}
+    {% endif %}
+    
+    {% if include.link %}
+      <a
+        href="{{ include.link | relative_url | xml_escape }}"
+        class="card-button"
+        aria-label="Go to {{ include.title | default: "link" | xml_escape }}"
+      >
+        Sign Up
+      </a>
     {% endif %}
   </div>
 </div>

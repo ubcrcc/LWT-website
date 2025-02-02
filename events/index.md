@@ -12,7 +12,6 @@ Check out some of our upcoming opportunities as well as some of our most recent 
 {% include section.html %}
 
 {% include search-box.html %}
-
 {% include search-info.html %}
 
 {% include section.html %}
