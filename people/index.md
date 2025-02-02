@@ -3,6 +3,8 @@ title: People
 nav:
   order: 3
   tooltip: About our team
+header: images/gm_people.png
+footer: images/gm_people.png
 ---
 
 # {% include icon.html icon="fa-solid fa-users" %}People

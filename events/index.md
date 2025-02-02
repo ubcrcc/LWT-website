@@ -3,6 +3,8 @@ title: Events
 nav:
   order: 1
   tooltip: Upcoming and past events
+header: images/gm_people.png
+footer: images/gm_people.png
 ---
 
 # {% include icon.html icon="fa-solid fa-calendar-days" %}Events
