@@ -5,6 +5,7 @@
   <div class="button-wrapper">
     <a
       class="button"
+      style="color: white;"
       href="{{ button.link | replace: "$LINK", button.link | relative_url }}"
       {% if button.tooltip %}
         data-tooltip="{{ button.tooltip | xml_escape }}"

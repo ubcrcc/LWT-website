@@ -2,7 +2,7 @@
 title: About
 nav:
   order: 4
-  tooltip: Email, address, and location
+  tooltip: Learn about our committees
 ---
 
 # {% include icon.html icon="fa-solid fa-earth-americas" %}About
