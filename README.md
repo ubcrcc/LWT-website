@@ -3,7 +3,6 @@
 
 to do:
 - add box behind info at top of home page
-- add officers as list of names
 
 Visit **[ubcrcc.github.io/LWT-website](https://ubcrcc.github.io/LWT-website)** 🚀
 
@@ -16,8 +15,4 @@ To preview website locally:
 - Run the command "./.docker/run.sh"
     - This may take a few minutes the first time
 - Open the link near the bottom of the output in a browser
-
-./.docker/run.sh
-
-./.docker/run.sh
 
