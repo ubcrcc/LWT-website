@@ -3,6 +3,8 @@ title: Sign Up
 nav:
   order: 2
   tooltip: Get involved with the club
+header: images/gm_people.png
+footer: images/gm_people.png
 ---
 
 {% include section.html %}
