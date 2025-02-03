@@ -3,8 +3,6 @@ title: About
 nav:
   order: 4
   tooltip: Learn about our committees
-header: images/gm_people.png
-footer: images/gm_people.png
 ---
 
 # {% include icon.html icon="fa-solid fa-earth-americas" %}About

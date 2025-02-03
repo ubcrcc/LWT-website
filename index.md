@@ -1,6 +1,4 @@
 ---
-header: images/gm_people.png
-footer: images/gm_people.png
 ---
 
 # Welcome!
