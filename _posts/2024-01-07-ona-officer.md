@@ -4,12 +4,12 @@ tags:
   - Outreach and Awareness
 ---
 
-A description of what an O&A officer does.
+Officer stuff, idk.
 
 {%
   include button.html
   type="none"
-  text="Apply as O&A Director"
+  text="Apply as O&A Officer"
   link="https://docs.google.com/forms/d/e/1FAIpQLSdvPpvsSEvzkeqfnKPS8oLMpiUR9hpS8MxnctOJhgYTkORqAw/viewform?usp=sharing"
   class="button"
 %}

@@ -1,14 +1,14 @@
 ---
-title: Treasurer
+title: HMC Director
 tags: 
-    - Executive
+    - Humanitarian Movement
 ---
 
-A description of what the treasurer does.
+The HMC directors will be responsible for directing the Humanitarian Movement Committee.
 
 {%
   include button.html
   type="none"
-  text="Apply as Treasurer"
+  text="Apply as HMC Director"
   link="https://docs.google.com/forms/d/e/1FAIpQLSdvPpvsSEvzkeqfnKPS8oLMpiUR9hpS8MxnctOJhgYTkORqAw/viewform?usp=sharing"
 %}
