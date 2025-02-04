@@ -5,6 +5,9 @@ Visit **[ubcrcc.github.io/LWT-website](https://ubcrcc.github.io/LWT-website)** ð
 
 _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
 
+Tips to tell people in docs:
+- Be careful with your extensions on images! Make sure you're using the correct one (eg. .png, .jpg, .jpeg, etc.), although all of those should work (.heic?).
+
 To preview website locally:
 - Clone git repo
 - Install and launch Docker Desktop (https://www.docker.com/products/docker-desktop/)
