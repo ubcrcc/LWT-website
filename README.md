@@ -7,6 +7,7 @@ _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-tem
 
 Tips to tell people in docs:
 - Be careful with your extensions on images! Make sure you're using the correct one (eg. .png, .jpg, .jpeg, etc.), although all of those should work (.heic?).
+- Try to avoid using spaces or special characters when naming files (use underscores or dashes instead).
 
 To preview website locally:
 - Clone git repo

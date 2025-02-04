@@ -25,7 +25,7 @@ Also, feel free to have more or fewer than two pictures per committee, either co
   include figure.html
   image="images/outreach1.png"
   width="130%"
-  caption="Outreach committee volunteering around Vancouver"
+  caption=""
 %}
 
 {% endcapture %}
@@ -93,17 +93,6 @@ Also, feel free to have more or fewer than two pictures per committee, either co
   image="images/hmc_1.png"
   width="85%"
   caption=""
-%}
-
-{% endcapture %}
-
-{% capture col2 %}
-
-{%
-  include figure.html
-  image="images/"
-  width="100%"
-  caption="Lorem ipsum"
 %}
 
 {% endcapture %}
