@@ -124,7 +124,7 @@ Also, feel free to have more or fewer than two pictures per committee, either co
 
 {%
   include figure.html
-  image="images/training 2.png"
+  image="images/training_2.png"
   width="100%"
   caption=""
 %}
@@ -135,7 +135,7 @@ Also, feel free to have more or fewer than two pictures per committee, either co
 
 {%
   include figure.html
-  image="images/training 1.jpg"
+  image="images/training_1.jpg"
   width="100%"
   caption=""
 %}
