@@ -85,7 +85,7 @@ Learn more about some of the great people who make up the UBC Red Cross Club. Ou
 
 {%
   include feature.html
-  image="images/gm_people.jpg"
+  image="images/gm_people.png"
   link="people"
   title="People"
   style="bare"

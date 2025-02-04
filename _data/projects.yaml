@@ -5,27 +5,27 @@
   link: https://docs.google.com/forms/d/e/1FAIpQLSdvPpvsSEvzkeqfnKPS8oLMpiUR9hpS8MxnctOJhgYTkORqAw/viewform?usp=sharing
   description: Come to our first general meeting of the term, where you can see what our committees have been up to and what our plans are for the next few months. In addition, we'll be hosting naloxone training!
 
-- title: Cool Package
-  subtitle: a subtitle
+- title: Humanitarians in Training Conference
+  subtitle: March 8th, 2025
   group: upcoming
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  image: images/hmc_1.png
+  link:
+  description: Join us for the 10th annual Humanitarians-in-Training Conference! We are calling all young thinkers across BC to join the UBC Red Cross for a full-day conference packed with engaging activities and inspiring discussions designed to tackle various critical humanitarian issues.
 
-- title: Cool Tutorial
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+- title: Dough-Nate for a Cause
+  subtitle: October 2nd - 4th, 2024
+  image: images/doughnate.png
+  link:
+  description: This fundraiser, in collaboration with Sweet Success, is an exciting event where attendees can enjoy delicious, high-protein donuts while supporting a great cause. This unique twist on a classic treat combines indulgence with health-conscious choices, perfect for students and fitness enthusiasts alike.
 
-- title: Cool Web App
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+- title: Naloxone Training
+  subtitle: October 30th, 2024
+  image: images/naloxone.png
+  link: 
+  description: This free event facilitated by the AMS Peer Support is a great way to learn how and when to use a naloxone kit!
 
-- title: Cool Web Server
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+- title: Loving Spoonful
+  subtitle: October 19th, 2025
+  image: images/loving_spoonful.jpg
+  link:
+  description: A Loving Spoonful is a volunteer-run not-for-profit organization that provides free meals for individuals and families living with HIV and co-existing illnesses in the Downtown Eastside. Together, the Outreach & Awareness committee at UBC Red Cross is offering an off-campus volunteer and awareness opportunity for UBC students to take part in assembling, packing and labeling meals at their Downtown Eastside location.
