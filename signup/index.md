@@ -39,7 +39,7 @@ Check the board below for leadership positions available in UBCRCC. Becoming an 
 {% assign num_posts = site.posts | size %}
 
 {% if num_posts == 0 %}
-  <p style="text-align: center; font-size: 18px;">No positions available</p>
+  <p style="text-align: center; font-size: 18px;">No positions available, check back later!</p>
 {% else %}
   {% include list.html data="posts" component="post-excerpt" %}
 {% endif %}
