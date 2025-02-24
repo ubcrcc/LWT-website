@@ -61,7 +61,7 @@ Learn more about our club, including why we do what we do. Find out more about o
 
 {%
   include feature.html
-  image="images/big_logo.png"
+  image="images/booth.jpg"
   link="about"
   title="About"
   flip=true
