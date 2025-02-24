@@ -23,7 +23,7 @@ Also, feel free to have more or fewer than two pictures per committee, either co
 
 {%
   include figure.html
-  image="images/outreach1.png"
+  image="images/about/outreach1.png"
   width="130%"
   caption=""
 %}
@@ -34,7 +34,7 @@ Also, feel free to have more or fewer than two pictures per committee, either co
 
 {%
   include figure.html
-  image="images/outreach2.png"
+  image="images/about/outreach2.png"
   width="65%"
   caption=""
 %}
@@ -56,7 +56,7 @@ Also, feel free to have more or fewer than two pictures per committee, either co
 
 {%
   include figure.html
-  image="images/fundraising1_2.png"
+  image="images/about/fundraising1_2.png"
   width="85%"
   caption=""
 %}
@@ -67,7 +67,7 @@ Also, feel free to have more or fewer than two pictures per committee, either co
 
 {%
   include figure.html
-  image="images/fundraising1_1.png"
+  image="images/about/fundraising1_1.png"
   width="90%"
   caption=""
 %}
@@ -90,7 +90,7 @@ Also, feel free to have more or fewer than two pictures per committee, either co
 
 {%
   include figure.html
-  image="images/hmc_1.png"
+  image="images/about/hmc_1.png"
   width="85%"
   caption=""
 %}
@@ -113,7 +113,7 @@ Also, feel free to have more or fewer than two pictures per committee, either co
 
 {%
   include figure.html
-  image="images/training_2.png"
+  image="images/about/training_2.png"
   width="100%"
   caption=""
 %}
@@ -124,7 +124,7 @@ Also, feel free to have more or fewer than two pictures per committee, either co
 
 {%
   include figure.html
-  image="images/training_1.jpg"
+  image="images/about/training_1.jpg"
   width="100%"
   caption=""
 %}

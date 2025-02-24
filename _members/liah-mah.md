@@ -1,6 +1,6 @@
 ---
 name: Liah Mah
-image: images/liah_mah.jpg
+image: images/people/liah_mah.jpg
 description: VP External
 role: exec
 ---

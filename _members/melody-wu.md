@@ -1,6 +1,6 @@
 ---
 name: Melody Wu
-image: images/melody_wu.jpg
+image: images/people/melody_wu.jpg
 description: Training Director
 role: director
 ---

@@ -38,7 +38,7 @@ Want to help make a difference? Find an event that works for you, and come help 
 
 {%
   include feature.html
-  image="images/spoonful.jpg"
+  image="images/home/events.jpg"
   link="events"
   title="Events"
   text=text
@@ -61,7 +61,7 @@ Learn more about our club, including why we do what we do. Find out more about o
 
 {%
   include feature.html
-  image="images/booth.jpg"
+  image="images/home/about.jpg"
   link="about"
   title="About"
   flip=true
@@ -85,7 +85,7 @@ Learn more about some of the great people who make up the UBC Red Cross Club. Ou
 
 {%
   include feature.html
-  image="images/gm_people.png"
+  image="images/home/people.png"
   link="people"
   title="People"
   style="bare"

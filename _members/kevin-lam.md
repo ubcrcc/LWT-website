@@ -1,6 +1,6 @@
 ---
 name: Kevin Lam
-image: images/gonk.jpeg
+image: images/people/gonk.jpeg
 description: Outreach and Awareness Director
 role: director
 ---

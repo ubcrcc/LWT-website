@@ -1,6 +1,6 @@
 ---
 name: Lydia Puetz
-image: images/lydia_puetz.jpeg
+image: images/people/lydia_puetz.jpeg
 description: Marketing Director
 role: director
 ---

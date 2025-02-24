@@ -1,6 +1,6 @@
 ---
 name: Duncan Boyd
-image: images/fishpic.jpg
+image: images/people/duncan_boyd.jpg
 description: Marketing Director
 role: director
 ---
