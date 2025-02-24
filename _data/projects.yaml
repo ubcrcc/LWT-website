@@ -1,39 +1,39 @@
 - title: First Aid Jeopardy
   subtitle: February 28th, 2025
   group: upcoming
-  image: images/events/jeopardy.png
+  image: images/events/first_aid_jeopardy.png
   link:
   description: Join us in ANGU 293 at 6-7PM for a night of first aid and Red Cross themed Jeopardy for a chance to win a gift card! Admission is free and snacks and drinks are provided. 
 
-- title: Overdose Prevention Society Safety Packaging Event
+- title: Overdose Prevention Society Safety Packaging
   subtitle: February 26th, 2025
   group: upcoming
-  image: images/events/oa_5.png
+  image: images/events/ops_safety_packaging.png
   link:
   description: Come out to BUCH D205 from 6-7PM and help us assemble overdose prevention packages. Attendees will help package safety injection kits and learn about harm reduction sites, admission is free!
 
 - title: Humanitarians in Training Conference
   subtitle: March 8th, 2025
   group: upcoming
-  image: images/events/hmc_1.png
+  image: images/events/humanitarians_in_training_conference.png
   link: https://docs.google.com/forms/d/e/1FAIpQLScfIMaQ4NmnHUZtCBQiyjqbjEOlZjaLQyAIqLC6CAfxbm7dFw/viewform
   description: We are calling all young thinkers across BC to join the UBC Red Cross for a full-day conference packed with engaging activities and inspiring discussions designed to tackle various critical humanitarian issues. Open to high school and UBC students!
 
 - title: General Meeting
   subtitle: February 10th, 2025
-  image: images/events/gm_people.png
+  image: images/events/general_meeting.png
   link:
   description: Come to our first general meeting of the term, where you can see what our committees have been up to and what our plans are for the next few months. In addition, we'll be hosting naloxone training!
 
 - title: Dough-Nate for a Cause
   subtitle: October 2nd - 4th, 2024
-  image: images/events/doughnate.png
+  image: images/events/doughnate_for_a_cause.png
   link:
   description: This fundraiser, in collaboration with Sweet Success, is an exciting event where attendees can enjoy delicious, high-protein donuts while supporting a great cause. This unique twist on a classic treat combines indulgence with health-conscious choices, perfect for students and fitness enthusiasts alike.
 
 - title: Naloxone Training
   subtitle: October 30th, 2024
-  image: images/events/naloxone.png
+  image: images/events/naloxone_training.png
   link: 
   description: This free event facilitated by the AMS Peer Support is a great way to learn how and when to use a naloxone kit!
 
