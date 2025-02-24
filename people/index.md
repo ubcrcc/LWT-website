@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}People
 
-Meet our team! Our execs, directors, and officers are the core of this club, helping us organize and run our events and fundraisers! Say hi to us at events, or become a member and come meet us at our general and committee meetings!
+Meet our team! Our execs and directors are the core of this club, helping us organize and run our events and fundraisers! Say hi to us at events, or become a member and come meet us at our general and committee meetings!
 
 {% include section.html background="images/background.jpg" dark=false %}
 
