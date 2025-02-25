@@ -1,6 +1,6 @@
 ---
 name: Alina Wang
-image: images/alina_wang.jpeg
+image: images/people/alina_wang.jpeg
 description: VP Ambassador
 role: exec
 ---

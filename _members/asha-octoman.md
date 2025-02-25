@@ -1,6 +1,6 @@
 ---
 name: Asha Octoman
-image: images/asha_octoman.png
+image: images/people/asha_octoman.png
 description: President
 role: exec
 ---
