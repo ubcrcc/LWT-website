@@ -1,19 +1,26 @@
+- title: Krispy Kreme Fundraiser
+  group: upcoming
+  image: images/events/krispy_kreme.jpg
+  description: Find us outside the nest from 11AM to 4PM March 11th-14th to pick up your donuts and help us raise money for our annual appeal!
+
+- title: First Aid Skill Stations
+  subtitle: March 12th, 2025
+  group: upcoming
+  description: Learn some first aid skills taught by students with first aid training! Join us in ANGU 339 from 6-7PM to learn some first aid skills, free snacks included!
+
 - title: First Aid Jeopardy
   subtitle: February 28th, 2025
-  group: upcoming
   image: images/events/first_aid_jeopardy.png
   link:
   description: Join us in ANGU 293 at 6-7PM for a night of first aid and Red Cross themed Jeopardy for a chance to win a gift card! Admission is free and snacks and drinks are provided. 
 
 - title: Overdose Prevention Society Safety Packaging
   subtitle: February 26th, 2025
-  group: upcoming
   image: images/events/ops_safety_packaging.png
   link:
   description: Come out to BUCH D205 from 6-7PM and help us assemble overdose prevention packages. Attendees will help package safety injection kits and learn about harm reduction sites, admission is free!
 
 - title: Humanitarians in Training Conference
-  subtitle: March 8th, 2025
   group: upcoming
   image: images/events/humanitarians_in_training_conference.png
   link: https://docs.google.com/forms/d/e/1FAIpQLScfIMaQ4NmnHUZtCBQiyjqbjEOlZjaLQyAIqLC6CAfxbm7dFw/viewform
