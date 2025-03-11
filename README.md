@@ -1,7 +1,7 @@
 
 # ubcrcc's Website
 
-Visit **[ubcredcrossclub.ca](http://ubcredcrossclub.ca)** 🚀
+Visit **[www.ubcredcrossclub.ca](http://www.ubcredcrossclub.ca)** 🚀
 
 _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
 
