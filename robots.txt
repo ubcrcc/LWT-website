@@ -1,1 +1,1 @@
-Sitemap: http://www.ubcredcrossclub.ca/sitemap.xml
+Sitemap: https://www.ubcredcrossclub.ca/sitemap.xml
