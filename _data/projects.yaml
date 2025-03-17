@@ -1,11 +1,21 @@
-- title: Krispy Kreme Fundraiser
+- title: Loving Spoonful Volunteering
+  image: images/events/loving_spoonful.jpg
   group: upcoming
+  link: https://forms.gle/Ywmc9x3naN2u125D9
+  description: A Loving Spoonful is a volunteer-run not-for-profit organization that provides free meals for individuals and families living with HIV and co-existing illnesses in the Downtown Eastside. Together, the Outreach & Awareness committee at UBC Red Cross is offering an off-campus volunteer and awareness opportunity for UBC students to take part in assembling, packing and labeling meals at their Downtown Eastside location.
+
+- title: O&A Trivia Night
+  image: images/events/trivia_night.png
+  group: upcoming
+  link:
+  description: Join us at 6:00PM at Buchanan room D205 for a night of trivia! Learn about social issues in Canada, and if you win, take home some snacks and prizes!
+
+- title: Krispy Kreme Fundraiser
   image: images/events/krispy_kreme.jpg
   description: Find us outside the nest from 11AM to 4PM March 11th-14th to pick up your donuts and help us raise money for our annual appeal!
 
 - title: First Aid Skill Stations
   subtitle: March 12th, 2025
-  group: upcoming
   description: Learn some first aid skills taught by students with first aid training! Join us in ANGU 339 from 6-7PM to learn some first aid skills, free snacks included!
 
 - title: First Aid Jeopardy
@@ -21,7 +31,7 @@
   description: Come out to BUCH D205 from 6-7PM and help us assemble overdose prevention packages. Attendees will help package safety injection kits and learn about harm reduction sites, admission is free!
 
 - title: Humanitarians in Training Conference
-  group: upcoming
+  group:
   image: images/events/humanitarians_in_training_conference.png
   link: https://docs.google.com/forms/d/e/1FAIpQLScfIMaQ4NmnHUZtCBQiyjqbjEOlZjaLQyAIqLC6CAfxbm7dFw/viewform
   description: We are calling all young thinkers across BC to join the UBC Red Cross for a full-day conference packed with engaging activities and inspiring discussions designed to tackle various critical humanitarian issues. Open to high school and UBC students!
