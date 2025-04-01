@@ -1,0 +1,27 @@
+# 4 - Using Software
+
+This document assumes that you've already gone through 3 - Getting Software. If not, go do that now.
+
+Here, we'll go through the steps to using your newfound software tools to make changes to the website.
+
+## Cloning Our Repository
+
+Our repository is the folder in Github with all of our website's code. Cloning practically means downloading it to your computer so you can work on it. You will only need to do this once on your computer. To do this, follow the following steps:
+
+1. Go to our repository at "https://github.com/ubcrcc/LWT-website".
+
+<img src="media/github_code.png" alt="alt text" title="Title" width="50%">\
+
+2. From the "Code" dropdown menu, copy the URL under HTTPS.
+
+<img src="media/github_https.png" alt="alt text" title="Title" width="50%">\
+
+3. Open VS Code.
+
+4. From the source control tab on the left, press "Clone Repository".
+
+<img src="media/vscode_clone.png" alt="alt text" title="Title" width="50%">\
+
+5. A menu will appear where you can paste the URL you copied in step 2. Do this, then follow the steps to select a location to save the code. When prompted, open the folder in VS Code.
+
+6. 

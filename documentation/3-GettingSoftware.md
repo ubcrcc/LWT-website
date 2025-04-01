@@ -2,6 +2,13 @@
 
 In this document, you'll learn how to install all the software tools you need to maintain the website. This document will focus on setting up tools on MacOS, but all of these tools should be equally compatible with Windows (or Linux, but if you're using that you don't need my help).
 
+## Table of Contents
+
+ 1. [Github](#github)
+ 2. [VS Code](#vs-code)
+ 3. [Git](#git)
+ 4. [Docker](#docker)
+
 ## Github
 
 You'll need to be signed in and have access to our website's code to make changes. To set yourself up with Github, follow these steps:
