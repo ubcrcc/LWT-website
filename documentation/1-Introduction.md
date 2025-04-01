@@ -52,10 +52,13 @@ In the following docs, you can learn how to manage the website.
 - 2 - Web Presence:\
     Manage how the website appears on the internet.
 
-- 3 - Software Setup:\
+- 3 - Getting Software:\
     Set up the software tools you need to make changes to the website.
     
-- 4 - Making Changes:\
-    Learn where to make changes and how to make them.
+- 4 - Using Software:\
+    Learn how to use the software tools to make changes and preview the website.
+
+- 5 - Making Changes:\
+    Learn where go to change different parts of the website.
 
 Good luck, you've got this!
