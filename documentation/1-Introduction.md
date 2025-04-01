@@ -4,6 +4,8 @@ This is an introduction to the UBC Red Cross website. If you want to get right t
 
 Note that I'm not too experienced in web design or the technical aspects of a website either. These docs will cover what I know. If you have any questions, feel free to shoot me (Duncan) an email at duncan@wapta.ca, even if I'm no longer part of Red Cross. I'll be happy to help to see that the website gets the maintenance it needs!
 
+Finally, I'm aware that this is going to be a significant amount of work to set up and maintain. If you decide that you need to drop this, I'll provide instructions for taking down the website.
+
 ## Overall Structure
 
 This website is built on code, a mix of markdown, HTML, and more. It's a modified version of the Lab Website Template. This code is controlled using Git, a version control system. It is stored in GitHub, an online site, which also builds the website so that it can be displayed online. Finally, to give us a custom URL, we've bought a domain name from Porkbun which points to the Github website build. 
