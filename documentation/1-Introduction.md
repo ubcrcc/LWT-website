@@ -6,6 +6,15 @@ Note that I'm not too experienced in web design or the technical aspects of a we
 
 Finally, I'm aware that this is going to be a significant amount of work to set up and maintain. If you decide that you need to drop this, I'll provide instructions for taking down the website.
 
+## Table of Contents
+
+ 1. [Overall Structure](#overall-structure)
+ 2. [Code](#code)
+ 3. [Git](#git)
+ 4. [GitHub](#github)
+ 5. [Porkbun](#porkbun)
+ 6. [Next Steps](#next-steps)
+
 ## Overall Structure
 
 This website is built on code, a mix of markdown, HTML, and more. It's a modified version of the Lab Website Template. This code is controlled using Git, a version control system. It is stored in GitHub, an online site, which also builds the website so that it can be displayed online. Finally, to give us a custom URL, we've bought a domain name from Porkbun which points to the Github website build. 
@@ -38,4 +47,15 @@ Porkbun is a website hosting service. We use it because having "github" in the U
 
 ## Next Steps
 
-In the following docs, you can learn how to set up and make changes to the website. Good luck, you've got this!
+In the following docs, you can learn how to manage the website. 
+
+- 2 - Web Presence:\
+    Manage how the website appears on the internet.
+
+- 3 - Software Setup:\
+    Set up the software tools you need to make changes to the website.
+    
+- 4 - Making Changes:\
+    Learn where to make changes and how to make them.
+
+Good luck, you've got this!

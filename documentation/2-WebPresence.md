@@ -4,6 +4,11 @@ This document covers use of Porkbun, the service from which we get our website's
 
 If you want to renew our URL, take the website off the internet, see how many people are looking at our website, or fix an issue with how it appears on the web, you're in the right place!
 
+## Table of Contents
+
+ 1. [Porkbun](#porkbun)
+ 2. [Google Search Console](#google-search-console)
+
 ## Porkbun
 
 ### Signing In
