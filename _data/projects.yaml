@@ -1,3 +1,12 @@
+
+
+- title: A test event
+  subtitle: April 1st, 2025
+  image: images/events/test_event.jpg
+  group: upcoming
+  link: https://forms.gle/Ywmc9x3naN2u125D9
+  description: A test event for the docs
+
 - title: Loving Spoonful Volunteering
   image: images/events/loving_spoonful.jpg
   group: upcoming

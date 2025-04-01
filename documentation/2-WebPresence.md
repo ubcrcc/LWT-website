@@ -14,7 +14,9 @@ If you want to renew our URL, take the website off the internet, see how many pe
 ### Signing In
 
 1. Go to https://porkbun.com/account/loginOnly.
+
 2. Use username "ubcrccmarketing@gmail.com" and password "ubcrccWebs1te$" to sign in.
+
 3. You will likely be asked for a verification code, sent to the Red Cross email. Use password "ubcrccmarketing@gmail.com" and password "UBCRCC202425!" to sign in to the email.
 
 Sometimes this sign in can fail, I've found I run into fewer problems using Chrome over Safari.
@@ -24,6 +26,7 @@ Sometimes this sign in can fail, I've found I run into fewer problems using Chro
 Auto renewal is on for this domain, so you shouldn't have to explicitely pay. However, it's currently linked to my (Duncan's) credit card. To change the billing information, follow these steps:
 
 1. In the top right, go to "Account -> Settings/Billing".
+
 2. Update or replace the card using the options on the left.
 
 <img src="media/porkbun_billing.png" alt="alt text" title="Title" width="50%">
@@ -35,6 +38,7 @@ As a note, if you'd like to stop paying for the URL, which will
 If you want to remove the website from the internet so that it no longer is searchable, follow these steps:
 
 1. Press the "Details" button to the right of the domain entry near the bottom right of the page.
+
 2. Submit a request to delete the domain.
 
 <img src="media/porkbun_delete.png" alt="alt text" title="Title" width="50%">
