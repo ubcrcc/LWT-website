@@ -4,6 +4,12 @@ This document assumes that you've already gone through 3 - Getting Software. If 
 
 Here, we'll go through the steps to using your newfound software tools to make changes to the website.
 
+## Table of Contents
+
+ 1. [Cloning Our Repository](#cloning-our-repository)
+ 2. [Making Changes](#making-changes)
+ 3. [Previewing Our Website](#previewing-our-website)
+
 ## Cloning Our Repository
 
 Our repository is the folder in Github with all of our website's code. Cloning practically means downloading it to your computer so you can work on it. You will only need to do this once on your computer. To do this, follow the following steps:
@@ -24,4 +30,46 @@ Our repository is the folder in Github with all of our website's code. Cloning p
 
 5. A menu will appear where you can paste the URL you copied in step 2. Do this, then follow the steps to select a location to save the code. When prompted, open the folder in VS Code.
 
-6. 
+6. You should now be looking at our website's code!
+
+<img src="media/vscode_repo.png" alt="alt text" title="Title" width="50%">\
+
+## Making Changes
+
+Now let's see if you can make changes to the website! We'll make a change to the README (a guide to the website code) since this won't make anything change with the actual website. Follow these steps:
+
+1. Open "README.md".
+2. Make any change (add or delete text).
+3. Open the source control tab on the left side of VS Code.
+4. At the top of the screen, enter a message. Whenever you make changes, your message should roughly reflect what you did. For example, here you might write "updated readme". 
+5. Now press "Commit". Agree to any prompts that come up.
+
+<img src="media/vscode_commit.png" alt="alt text" title="Title" width="50%">\
+
+6. You've now logged a change, but only on your computer. To sync it with Github online, press "Sync Changes". Note that if somebody else has made a change, this button will also download their change to your computers version. If you're the only person working on this project, that will not happen.
+
+<img src="media/vscode_sync.png" alt="alt text" title="Title" width="50%">\
+
+7. Congratulations! You've made your first change to the website! You should be able to see your change on Github now at "https://github.com/ubcrcc/LWT-website". 
+
+Note that every time you use the "Sync Changes" button and send your changes to Github, the website will be automatically updated using a series of Github processes (called actions).
+
+## Previewing Our Website
+
+Changes that you make using the instructions above take a long time (~5 minutes) to actually appear on the website. Also, you don't want to change something and accidentally break the website! To avoid this, you can see what your changes will look like using Docker. Follow the steps below:
+
+1. Launch Docker. You can minimize the window if you'd like.
+2. In VS Code, press "Terminal -> New Terminal" from the top menu.
+3. A terminal should appear at the bottom of your screen. Copy the command "./.docker/run.sh" to it and enter.
+
+<img src="media/vscode_docker.png" alt="alt text" title="Title" width="50%">\
+
+4. The first time you do this, it may take a few minutes. Wait for the process to complete.
+5. Copy the URL that's provided near the end of the output.
+
+<img src="media/vscode_url.png" alt="alt text" title="Title" width="50%">\
+
+6. Paste this URL into a browser window. This should take you to the website! If you make any changes to the website files now, they'll be automatically previewed here, no need to reload or anything.
+
+7. Once you're done working, click on the terminal window and press CTRL+C to stop the website preview.
+
