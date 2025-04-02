@@ -33,8 +33,6 @@ Auto renewal is on for this domain, so you shouldn't have to explicitely pay. Ho
 
 <img src="media/porkbun_billing.png" alt="alt text" title="Title" width="50%">
 
-As a note, if you'd like to stop paying for the URL, which will 
-
 ### Removing the Website
 
 If you want to remove the website from the internet so that it no longer is searchable, follow these steps:
@@ -49,7 +47,7 @@ If you want to remove the website from the internet so that it no longer is sear
 
 Google Search Console lets you see how the website is handled by Google. You can see things like how many people are visiting it, and how google sees your different pages.
 
-To sign in, simply sign in to the marketing google account with username "ubcrccmarketing@gmail.com" and password "UBCRCC202425!" and go to [Google Search Console](https://search.google.com/u/1/search-console?resource_id=sc-domain%3Aubcredcrossclub.ca). 
+To sign in, simply sign in to the marketing google account with username *ubcrccmarketing@gmail.com* and password *UBCRCC202425!* and go to [Google Search Console](https://search.google.com/u/1/search-console?resource_id=sc-domain%3Aubcredcrossclub.ca). 
 
 <img src="media/google_search_console.png" alt="alt text" title="Title" width="50%">
 
