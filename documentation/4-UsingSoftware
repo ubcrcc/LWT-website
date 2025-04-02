@@ -14,7 +14,7 @@ Here, we'll go through the steps to using your newfound software tools to make c
 
 Our repository is the folder in Github with all of our website's code. Cloning practically means downloading it to your computer so you can work on it. You will only need to do this once on your computer. To do this, follow the following steps:
 
-1. Go to our repository at "https://github.com/ubcrcc/LWT-website".
+1. Go to [our repository](https://github.com/ubcrcc/LWT-website).
 
 <img src="media/github_code.png" alt="alt text" title="Title" width="50%">\
 
@@ -54,7 +54,7 @@ Now let's see if you can make changes to the website! We'll make a change to the
 
 <img src="media/vscode_sync.png" alt="alt text" title="Title" width="50%">\
 
-7. Congratulations! You've made your first change to the website! You should be able to see your change on Github now at "https://github.com/ubcrcc/LWT-website". 
+7. Congratulations! You've made your first change to the website! You should be able to see your change on Github now [here](https://github.com/ubcrcc/LWT-website). 
 
 Note that every time you use the "Sync Changes" button and send your changes to Github, the website will be automatically updated using a series of Github processes (called actions).
 

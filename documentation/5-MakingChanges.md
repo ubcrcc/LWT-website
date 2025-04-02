@@ -15,19 +15,19 @@ Finally, you're set up and ready to do what you want with the website! This docu
 
 First let's go through the website structure quickly so you know what's up. There are five pages:
 
-1. Landing page - "https://www.ubcredcrossclub.ca"\
+1. [Landing page](https://www.ubcredcrossclub.ca)\
 This is the main page where users will end up after searching for the website. 
 
-2. Events page - "https://www.ubcredcrossclub.ca/events/"\
+2. [Events page](https://www.ubcredcrossclub.ca/events/)\
 This pages describes some upcoming and past events,
 
-3. Sign up page - "https://www.ubcredcrossclub.ca/signup/"\
+3. [Sign up page](https://www.ubcredcrossclub.ca/signup/)\
 This page allows users to sign up as members, and offers links to job postings.
 
-4. People page - "https://www.ubcredcrossclub.ca/people/"\
+4. [People page](https://www.ubcredcrossclub.ca/people/)\
 This page has profiles for our execs and directors.
 
-5. About page - "https://www.ubcredcrossclub.ca/about/"\
+5. [About page](https://www.ubcredcrossclub.ca/about/)\
 This page describes all of our committees and our club.
 
 ## Landing Page

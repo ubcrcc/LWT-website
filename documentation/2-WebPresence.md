@@ -13,7 +13,7 @@ If you want to renew our URL, take the website off the internet, see how many pe
 
 ### Signing In
 
-1. Go to https://porkbun.com/account/loginOnly.
+1. Go to [Porkbun's website](https://porkbun.com/account/loginOnly).
 
 2. Use username "ubcrccmarketing@gmail.com" and password "ubcrccWebs1te$" to sign in.
 
@@ -47,7 +47,7 @@ If you want to remove the website from the internet so that it no longer is sear
 
 Google Search Console lets you see how the website is handled by Google. You can see things like how many people are visiting it, and how google sees your different pages.
 
-To sign in, simply sign in to the marketing google account with username "ubcrccmarketing@gmail.com" and password "UBCRCC202425!" and go to "https://search.google.com/u/1/search-console?resource_id=sc-domain%3Aubcredcrossclub.ca". 
+To sign in, simply sign in to the marketing google account with username "ubcrccmarketing@gmail.com" and password "UBCRCC202425!" and go to [Google Search Console](https://search.google.com/u/1/search-console?resource_id=sc-domain%3Aubcredcrossclub.ca). 
 
 <img src="media/google_search_console.png" alt="alt text" title="Title" width="50%">
 
