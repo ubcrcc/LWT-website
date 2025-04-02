@@ -1,21 +1,15 @@
 
-
-- title: A test event
-  subtitle: April 1st, 2025
-  image: images/events/test_event.jpg
-  group: upcoming
-  link: https://forms.gle/Ywmc9x3naN2u125D9
-  description: A test event for the docs
-
 - title: Loving Spoonful Volunteering
+  subtitle: March 22nd, 2025
   image: images/events/loving_spoonful.jpg
-  group: upcoming
+  group:
   link: https://forms.gle/Ywmc9x3naN2u125D9
   description: A Loving Spoonful is a volunteer-run not-for-profit organization that provides free meals for individuals and families living with HIV and co-existing illnesses in the Downtown Eastside. Together, the Outreach & Awareness committee at UBC Red Cross is offering an off-campus volunteer and awareness opportunity for UBC students to take part in assembling, packing and labeling meals at their Downtown Eastside location.
 
 - title: O&A Trivia Night
+  subtitle: March 19th, 2025
   image: images/events/trivia_night.png
-  group: upcoming
+  group:
   link:
   description: Join us at 6:00PM at Buchanan room D205 for a night of trivia! Learn about social issues in Canada, and if you win, take home some snacks and prizes!
 
