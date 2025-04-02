@@ -37,7 +37,7 @@ Learn more about Git on [their website](https://git-scm.com/book/en/v2/Getting-S
 
 GitHub is pretty much just Google Docs for code. It lets you store your code online, on the GitHub website so that others can see it and work on it. It has some fancy features too, like being able to build our website so it's visible online.
 
-You may notice that in the "Code" section above, I linked you to the Lab Website Template, which is on GitHub. Our website code can alos be found on [GitHub](https://github.com/ubcrcc/LWT-website).
+You may notice that in the *Code* section above, I linked you to the Lab Website Template, which is on GitHub. Our website code can alos be found on [GitHub](https://github.com/ubcrcc/LWT-website).
 
 When our code is updated, GitHub runs a series of commands that turn that code into a website. You can visit this website at this [URL](https://ubcrcc.github.io/LWT-website/).
 

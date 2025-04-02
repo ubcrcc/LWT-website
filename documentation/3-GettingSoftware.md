@@ -15,13 +15,13 @@ You'll need to be signed in and have access to our website's code to make change
 
 1. Sign in to Github [here](https://github.com/login). If you don't have an account, make one. 
 
-2. Please email me at "duncan@wapta.ca" and include your Github username and the email you used to create your account. I'll add you to our organization. In the future, you'll be able to add people too.
+2. Please email me at *duncan@wapta.ca* and include your Github username and the email you used to create your account. I'll add you to our organization. In the future, you'll be able to add people too.
 
 3. You should now be added to the UBCRCC Github organization. This sort of like a Google Drive folder.
 
 <img src="media/github_org.png" alt="alt text" title="Title" width="50%">\
 
-4. Go to "Repositories" on the top bar, then click on "LWT-website".
+4. Go to *Repositories* on the top bar, then click on *LWT-website*.
 
 <img src="media/github_repo.png" alt="alt text" title="Title" width="50%">\
 
