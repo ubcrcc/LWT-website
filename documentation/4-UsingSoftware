@@ -1,3 +1,5 @@
+<img src="media/logo.png" alt="alt text" title="Title" width="10%">
+
 # 4 - Using Software
 
 This document assumes that you've already gone through *3 - Getting Software*. If not, go do that now.
@@ -6,9 +8,9 @@ Here, we'll go through the steps to using your newfound software tools to make c
 
 ## Table of Contents
 
- 1. [Cloning Our Repository](#cloning-our-repository)
- 2. [Making Changes](#making-changes)
- 3. [Previewing Our Website](#previewing-our-website)
+ 1. Cloning Our Repository
+ 2. Making Changes
+ 3. Previewing Our Website
 
 ## Cloning Our Repository
 

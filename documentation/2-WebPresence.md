@@ -1,3 +1,5 @@
+<img src="media/logo.png" alt="alt text" title="Title" width="10%">
+
 # 2 - Web Presence
 
 This document covers use of Porkbun, the service from which we get our website's URL. Additionally, I'll introduce you to Google Search Console, where you can see stats about the website.
@@ -6,8 +8,8 @@ If you want to renew our URL, take the website off the internet, see how many pe
 
 ## Table of Contents
 
- 1. [Porkbun](#porkbun)
- 2. [Google Search Console](#google-search-console)
+ 1. Porkbun
+ 2. Google Search Console
 
 ## Porkbun
 

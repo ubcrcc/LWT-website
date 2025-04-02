@@ -1,13 +1,15 @@
+<img src="media/logo.png" alt="alt text" title="Title" width="10%">
+
 # 3 - Getting Software
 
 In this document, you'll learn how to install all the software tools you need to maintain the website. This document will focus on setting up tools on MacOS, but all of these tools should be equally compatible with Windows (or Linux, but if you're using that you don't need my help).
 
 ## Table of Contents
 
- 1. [Github](#github)
- 2. [VS Code](#vs-code)
- 3. [Git](#git)
- 4. [Docker](#docker)
+ 1. Github
+ 2. VS Code
+ 3. Git
+ 4. Docker
 
 ## Github
 

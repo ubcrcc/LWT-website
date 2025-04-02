@@ -1,15 +1,17 @@
+<img src="media/logo.png" alt="alt text" title="Title" width="10%">
+
 # 5 - Making Changes
 
 Finally, you're set up and ready to do what you want with the website! This document will go into the website code and structure, and how to make the changes you want. 
 
 ## Table of Contents
 
- 1. [Website Structure](#website-structure)
- 2. [Landing Page](#landing-page)
- 3. [Events](#events)
- 4. [Sign Up](#sign-up)
- 5. [People](#people)
- 6. [About](#about)
+ 1. Website Structure
+ 2. Landing Page
+ 3. Events
+ 4. Sign Up
+ 5. People
+ 6. About
 
 ## Website Structure
 

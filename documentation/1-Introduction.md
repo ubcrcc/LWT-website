@@ -1,3 +1,5 @@
+<img src="media/logo.png" alt="alt text" title="Title" width="10%">
+
 # 1 - Introduction
 
 This is an introduction to the UBC Red Cross website. If you want to get right to making changes and maintaining the website, skip this doc. Otherwise, I'll go over the basic tools that the website is built on, what they are, and how they're used.
@@ -8,12 +10,12 @@ Finally, I'm aware that this is going to be a significant amount of work to set 
 
 ## Table of Contents
 
- 1. [Overall Structure](#overall-structure)
- 2. [Code](#code)
- 3. [Git](#git)
- 4. [GitHub](#github)
- 5. [Porkbun](#porkbun)
- 6. [Getting Started](#getting-started)
+ 1. Overall Structure
+ 2. Code
+ 3. Git
+ 4. GitHub
+ 5. Porkbun
+ 6. Getting Started
 
 ## Overall Structure
 
