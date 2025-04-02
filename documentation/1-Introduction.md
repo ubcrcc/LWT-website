@@ -13,7 +13,7 @@ Finally, I'm aware that this is going to be a significant amount of work to set 
  3. [Git](#git)
  4. [GitHub](#github)
  5. [Porkbun](#porkbun)
- 6. [Next Steps](#next-steps)
+ 6. [Getting Started](#getting-started)
 
 ## Overall Structure
 
@@ -45,7 +45,7 @@ When our code is updated, GitHub runs a series of commands that turn that code i
 
 Porkbun is a website hosting service. We use it because having "github" in the URL from the section above looks messy, and won't display on a Google search. We pay 12$/year to reserve our website's current URL (https://www.ubcredcrossclub.ca). Porkbun links this URL to the website on GitHub.
 
-## Next Steps
+## Getting Started
 
 In the following docs, you can learn how to manage the website. 
 
@@ -60,5 +60,7 @@ In the following docs, you can learn how to manage the website.
 
 - 5 - Making Changes:\
     Learn where go to change different parts of the website.
+
+The template upon which this website is based also comes with some very useful documentation. Learn more about the website "https://greene-lab.gitbook.io/lab-website-template-docs".
 
 Good luck, you've got this!
